@@ -1,6 +1,3 @@
-// change all displays to have caption parameter
-// compute masks - change parameters
-// render - change size of array
 #include <iostream>
 #include <fstream>
 #include <vector>
