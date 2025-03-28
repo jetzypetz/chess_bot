@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cagnus.dir/src/main.cpp.o -o cagnus  libboard.a 

@@ -1,0 +1,4 @@
+/home/jetz/c/proj/build/CMakeFiles/board.dir
+/home/jetz/c/proj/build/CMakeFiles/cagnus.dir
+/home/jetz/c/proj/build/CMakeFiles/edit_cache.dir
+/home/jetz/c/proj/build/CMakeFiles/rebuild_cache.dir
