@@ -1,4 +1,4 @@
-# My Chessbot From Scratch
+# Chessbot Project From Scratch
 
 > **A cutting-edge chess engine built with precision, creativity, and great professionalism by Eugenio Animali, Emilie Kristensen, Peter Dogan and Eiken Chang.**
 
