@@ -43,7 +43,7 @@ Designed to provide thrilling gameplay and analytical depth, this engine combine
 
 Meet the team behind Cagnus Marlsen:
 
-- **Eugenio**: Project Lead and Machine Architect
+- **Eugenio**: Project Lead and Engine Architect
 - **Peter**: AI Specialist
 - **Emilie**: Rendering Wizard
 - **Eiken**: Algorithm Guru
