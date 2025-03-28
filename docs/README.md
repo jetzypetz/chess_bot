@@ -1,6 +1,7 @@
 # Chessbot Project From Scratch
 
-> **A cutting-edge chess engine built with precision, creativity, and great professionalism by Eugenio Animali, Emilie Kristensen, Peter Dogan and Eiken Chang.**
+> **A pure C++ chess engine using no non-standard libraries;
+> built with precision, creativity, and great professionalism by Eugenio Animali, Emilie Kristensen, Peter Dogan and Eiken Chang.**
 
 Designed to provide thrilling gameplay and analytical depth, this engine combines efficient bitboard-based computations with beautiful board rendering for an unparalleled chess experience.
 
