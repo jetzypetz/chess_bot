@@ -1,9 +1,0 @@
-Evaluation Function: Developed and improved the evaluation function for scoring board states based on position and material.
-
-File Parsing: Implemented functions to read chess moves and translate it into usable strings.
-
-Position-to-Bitboard Conversion: Converting chessboard positions from input files to bitboards.
-
-Opening Prep: Created functions to store opening moves so that the early stages of the game can be more efficient.
-
-Debugging
