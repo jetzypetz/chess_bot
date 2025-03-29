@@ -1,7 +1,7 @@
 # Chessbot Project From Scratch
 
 > **A pure C++ chess engine using no non-standard libraries;
-> built with precision, creativity, and great professionalism by Eugenio Animali, Emilie Kristensen, Peter Dogan and Eiken Chang.**
+> built with precision, creativity, and great professionalism by Eugenio Animali, Emilie Kristensen, Peter Dogan and Yung-Hsuan Chang.**
 
 Designed to provide thrilling gameplay and analytical depth, this engine combines efficient bitboard-based computations with beautiful board rendering for an unparalleled chess experience.
 
@@ -46,7 +46,7 @@ Meet the team behind Cagnus Marlsen:
 - **Eugenio**: Project Lead and Engine Architect
 - **Peter**: AI Specialist
 - **Emilie**: Rendering Wizard
-- **Eiken**: Algorithm Guru
+- **Yung-Hsuan**: Algorithm Guru
 
 ---
 
